@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div>
     <h3 style="background-color: F6F8FA; padding: 20px">
         Hi there! &nbsp; 👋 &nbsp; My name is <a href="https://www.leechenze.com">LiChenZe</a>.
-        Is a young rookie, Please enlighten !~~~
+        A young rookie, Please enlighten !~~~
     </h3>
 </div>
 
@@ -31,17 +31,21 @@ Here are some ideas to get you started:
 >-💻&nbsp;&nbsp;I'm now working for [UFIDA](https://www.yonyougov.com/)   
 >-🔭&nbsp;&nbsp;I'm currently researching ☔Node   
 >-🌱&nbsp;&nbsp;I'm currently learning 🦕Deno   
->-😄&nbsp;&nbsp;I'm looking for like-minded code friends   
->-⚡&nbsp;&nbsp;Committed to the completion of our project [codeFriendForum](http://forum.codefriend.icu/) & [codeFriendClub](http://club.codefriend.icu/)
+>-😄&nbsp;&nbsp;I'm looking for like-minded code friends  
+>-⚡&nbsp;&nbsp;Committed to the completion of our project [codeFriendForum](http://forum.codefriend.icu/) & [codeFriendClub](http://club.codefriend.icu/)   
+>-🌹&nbsp;&nbsp;Oh, And! My Belief Is CHINA!
+<img src="./20151021034302251.png" style="width: 20px; margin: -2px;"/>
+<img src="./20151021034302251.png" style="width: 20px; margin: -2px;"/>
+<img src="./20151021034302251.png" style="width: 20px; margin: -2px;"/>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Blog Badge](https://img.shields.io/badge/blog-25k%20pageview-brightgreen)](https://www.leechenze.com/subset/blog.html)
+[![Blog Badge](https://img.shields.io/badge/blog-0k%20pageview-brightgreen)](https://www.leechenze.com/subset/blog.html)
 [![Mail Badge](https://img.shields.io/badge/-leeczyc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leeczyc@gmail.com)](mailto:leeczyc@gmail.com)
 ![help-wanted](https://img.shields.io/badge/%20-help--wanted-%23159818)
 [![YouTuBe-views](https://img.shields.io/badge/views--red?logo=youtube&style=social)](https://www.youtube.com/channel/UCtRTxDQgQZNWY5gG0eZNCDw/videos?view_as=subscriber)
-![rating](https://img.shields.io/badge/rating-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%C2%BD-brightgreen)
-![License-MIT](https://img.shields.io/badge/license-FApache-blue)
+![rating](https://img.shields.io/badge/rating-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85%C2%BD-brightgreen)
+![License-MIT](https://img.shields.io/badge/license-Apache-blue)
 ![platform](https://img.shields.io/badge/platform-windows%20%7C%20macos%20%7C%20Ubuntu-lightgrey)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
