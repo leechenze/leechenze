@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ![help-wanted](https://img.shields.io/badge/%20-help--wanted-%23159818)
 [![YouTuBe-views](https://img.shields.io/badge/views--red?logo=youtube&style=social)](https://www.youtube.com/channel/UCtRTxDQgQZNWY5gG0eZNCDw/videos?view_as=subscriber)
 ![rating](https://img.shields.io/badge/rating-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%C2%BD-brightgreen)
-![License-MIT](https://img.shields.io/badge/license-MIT%2FApache--2-blue)
+![License-MIT](https://img.shields.io/badge/license-FApache-blue)
 ![platform](https://img.shields.io/badge/platform-windows%20%7C%20macos%20%7C%20Ubuntu-lightgrey)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -59,6 +59,7 @@ Here are some ideas to get you started:
     >- 足球健身     █░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %    
     >- 阅读         █░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %   
     >- 发呆         █░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %    
+    >- 臭美         █░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %    
 </pre>
 
 ---
