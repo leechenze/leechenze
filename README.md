@@ -33,10 +33,7 @@ Here are some ideas to get you started:
 >-🌱&nbsp;&nbsp;I'm currently learning 🦕Deno   
 >-😄&nbsp;&nbsp;I'm looking for like-minded code friends  
 >-⚡&nbsp;&nbsp;Committed to the completion of our project [codeFriendForum](http://forum.codefriend.icu/) & [codeFriendClub](http://club.codefriend.icu/)   
->-🌹&nbsp;&nbsp;Oh, And! My Belief Is CHINA!
-<img src="https://d.lanrentuku.com/down/png/1004/flags/China.png" style="width: 20px; margin: 0 -3px; margin-bottom: -5px;"/>
-<img src="https://d.lanrentuku.com/down/png/1004/flags/China.png" style="width: 20px; margin: 0 -3px; margin-bottom: -5px;"/>
-<img src="https://d.lanrentuku.com/down/png/1004/flags/China.png" style="width: 20px; margin: 0 -3px; margin-bottom: -5px;"/>
+>-🌹&nbsp;&nbsp;Oh, And! My Belief Is CHINA!💖💖💖
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
