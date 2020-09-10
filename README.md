@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 >-🔭&nbsp;&nbsp;I'm currently researching ☔Node   
 >-🌱&nbsp;&nbsp;I'm currently learning 🦕Deno   
 >-😄&nbsp;&nbsp;I'm looking for like-minded code friends  
->-⚡&nbsp;&nbsp;Committed to the completion of our project [codeFriendForum](http://forum.codefriend.icu/) & [codeFriendClub](http://club.codefriend.icu/)   
+>-⚡&nbsp;&nbsp;Committed to the completion of our project [CodePalForum](http://forum.codepal.club/) & [CodePalClub](http://club.codepal.club/)
 >-🌹&nbsp;&nbsp;Oh, And! My Belief Is CHINA!💖💖💖
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
