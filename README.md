@@ -1,5 +1,5 @@
 <!--
-**LiChenZe/LiChenZe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**leechenze/leechenze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=LiChenZe&show_icons=true&theme=cobalt" />   
+<img align="right"  src="https://github-readme-stats.vercel.app/api?username=leechenze&show_icons=true&theme=cobalt" />   
 
 >-🈵&nbsp;&nbsp;I'm always active in [Twitter](https://mobile.twitter.com/leechense)   
 >-💻&nbsp;&nbsp;I'm now working for [UFIDA](https://www.yonyougov.com/)   
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiChenZe&layout=compact&theme=cobalt" />   
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leechenze&layout=compact&theme=cobalt" />   
 <pre style="border: 1px solid #E1E4E8">
     >- coding       █████████████░░░░░░░░░░░░   46.68 %    
     >- 英语         █████████████░░░░░░░░░░░░   46.15 %    
