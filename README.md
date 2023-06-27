@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div>
     <h3 style="background-color: F6F8FA; padding: 20px">
         Hi there! &nbsp; 👋 &nbsp; My name is <a href="https://www.leechenze.com">LiChenZe</a>.
-        A Dart And JavaScript Developer ~~~
+        I am a developer ~~~
     </h3>
 </div>
 
