@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div>
     <h3 style="background-color: F6F8FA; padding: 20px">
-        Hi there! &nbsp; 👋 &nbsp; My name is <a href="https://www.leechenze.com">LiChenZe</a>.
+        Hi there! &nbsp; 👋 &nbsp; My name is <a href="https://anglee.heidian.space">LiChenZe</a>.
         I am a developer ~~~
     </h3>
 </div>
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Blog Badge](https://img.shields.io/badge/blog-0k%20pageview-brightgreen)](https://www.leechenze.com/subset/blog.html)
+[![Blog Badge](https://img.shields.io/badge/blog-0k%20pageview-brightgreen)](https://anglee.heidian.space/subset/blog.html)
 [![Mail Badge](https://img.shields.io/badge/-leeczyc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leeczyc@gmail.com)](mailto:leeczyc@gmail.com)
 ![help-wanted](https://img.shields.io/badge/%20-help--wanted-%23159818)
 [![YouTuBe-views](https://img.shields.io/badge/views--red?logo=youtube&style=social)](https://www.youtube.com/channel/UCtRTxDQgQZNWY5gG0eZNCDw/videos?view_as=subscriber)
