@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div>
     <h3 style="background-color: F6F8FA; padding: 20px">
         Hi there! &nbsp; 👋 &nbsp; My name is <a href="https://anglee.heidian.space">AngLee</a>.
-        I am a developer ~~~
+        I am a software developer ~~~
     </h3>
 </div>
 
